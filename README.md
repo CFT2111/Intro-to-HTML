@@ -24,6 +24,6 @@
     * The reading list for the module is a good starting point. This list contains recommendations for books, websites and video tutorials. 
     * You don't have to use the resources on the reading list. There are lots of good HTML and CSS resources out there, so find something that works for you. The advice I would offer is:
         * Make sure it is recent (no earlier that 2013)
-        * make sure it focuses on HTML and CSS. Lots of HTML 5 books cover JavaScript, avoid these.  
+        * Make sure it focuses on HTML and CSS. Lots of HTML 5 books cover JavaScript, avoid these.  
         * You shouldn't have to pay for resources. The library has physical books, electronic books and subscribes to high quality video learning materials.   You can use the library search engine https://library.hud.ac.uk/ to explore the HTML and CSS resources that are available. 
     
