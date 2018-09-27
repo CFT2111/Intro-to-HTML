@@ -15,7 +15,7 @@
             - li
             - em
             - strong
-        - You won't know how to use many of these tags. To see examples of the tags being used and to better understand how to use them see https://developer.mozilla.org/bm/docs/Web/HTML 
+        - You won't know how to use many of these tags. To see examples of the tags being used and to better understand how to use them see https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals 
     - Test your page in a web browser
     - Validate the page using the W3C validator [http://validator.w3.org/](http://validator.w3.org/). 
         - Upload the page you have just created to check it is valid HTML 5.   
