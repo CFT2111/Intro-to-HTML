@@ -22,7 +22,7 @@
 2. For further practice, create another webpage. The content for this page should be information about the course you are studying. 
     * Visit the University website to find information for your course. 
     * Create a new file in your text editor. From Brightspace find the HTML template. You can use this as a starting point for your web pages. Copy the HTML code from the template into your new file and save it as *course.html*. 
-    * Copy and content from this page and mark up your webpage using the key text-related tage listed above.
+    * Copy content from the university website and mark up your webpage using the key text-related tage listed above.
     * Validate the page using the W3C validator 
 3. Try and find some resources that are going to help you learn HTML and CSS.  
     * The reading list for the module is a good starting point. This list contains recommendations for books, websites and video tutorials. 
