@@ -14,6 +14,7 @@
             - strong
         - You won't know how to use many of these tags. To see examples of the tags being used and to better understand how to use them see https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals
     - Test your page in a web browser
+    - Validate the page using the W3C validator [http://validator.w3.org/](http://validator.w3.org/). If you have errors in your code try and fix them. 
 
 2. For further practice, create another webpage. The content for this page should be information about the course you are studying.
     * Visit the University website to find information for your course.
