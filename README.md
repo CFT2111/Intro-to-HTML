@@ -1,10 +1,7 @@
 # Introduction to HTML
 
 1. Creating a simple web page
-    - Open [tbl.html](tbl.html).
-    - Copy this text into a text editor
-    - Select file>save as and then save the file as *tbl.html*
-    - Open this HTML file using a web browser (FireFox or Chrome)
+    - Open [tbl.html](tbl.html) in a text editor and using a web browser (FireFox or Chrome)
     - *Mark-up* the page by adding some HTML tags for the headings and lists
         - To start with, you need to be familiar with:
             - h1
