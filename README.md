@@ -14,9 +14,9 @@
             - strong
         - You won't know how to use many of these tags. To see examples of the tags being used and to better understand how to use them see https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals
     - Test your page in a web browser
-    - Validate the page using the W3C validator [http://validator.w3.org/](http://validator.w3.org/). If you have errors in your code try and fix them. 
+    - Validate the page using the W3C validator [http://validator.w3.org/](http://validator.w3.org/). If you have errors in your code try and fix them.
 
 2. For further practice, create another webpage. The content for this page should be information about the course you are studying.
+    * Open *template.html*. This is a basic HTML page that contains the key HTML tags. You can use this as a starting point to create your own pages. Do a 'save as' on this file and name it *course.html*.
     * Visit the University website to find information for your course.
-    * Create a new file in your text editor. From Brightspace find the HTML template. You can use this as a starting point for your web pages. Copy the HTML code from the template into your new file and save it as *course.html*.
     * Copy content from the university website and mark up your webpage using the key text-related tags listed above.
